@@ -1,0 +1,23 @@
+h1{
+    color:chocolate;
+    margin-left: 80px;
+    border:solid
+}
+.Header a{margin-top: 30px;margin-right: 10px;}
+.Header{
+    background-color:#4EFF00;
+    display:flex;
+    justify-content: space-between;
+}
+.game{border: double;border-color: white;}
+.MyGames{
+    background-color:#1533FF;
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+h3{
+    text-align: center;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
